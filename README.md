@@ -9,7 +9,7 @@
 </p>
 
 <h2 align="center">
-    ─「 𝗩𝗜𝗣 𝗠𝗨𝗦𝗜𝗖 」─
+    ─「GODZ MUISC」─
 
 ★ 𝙷𝙴𝚁𝙾𝙺𝚄 + 𝚅𝙿𝚂 ★
 </h2>
@@ -18,8 +18,6 @@
 <p align="center">
     <img src="https://te.legra.ph/file/7b51adb8645bb87510996.jpg">
 </p>
-
-**𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [𝄟ॐ❥𝗧𝗚🍷𝗩𝗖🌷𝗕𝗢𝗧❥𝄟⃟🥀](https://t.me/TG_VC_BOT)**
 
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=⚠️𝗙𝗢𝗥𝗞+𝗧𝗛𝗜𝗦+𝗥𝗘𝗣𝗢+𝗙𝗜𝗥𝗦𝗧𝗟𝗬⚠️">
 
@@ -44,26 +42,12 @@
     <a href="https://telegram.me/THE_VIP_BOY">
         <img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 𝐕𝐈𝐏 𝐁𝐎𝐘%20☆-blue.svg?style=for-the-badge&logo=Telegram">
     </a>
-</p>
-
-<h3 align="center">
-    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
-</h3>
-
-### 🖇 VPS Deployment
-- Clone repo: `git clone https://github.com/THE-VIP-BOY-OP/VIP-MUSIC && cd VIP-MUSIC`
-- Setup by: `bash setup`
-- Fill [Extra Variables](https://github.com/THE-VIP-BOY-OP/VIP-MUSIC/blob/master/sample.env) by `nano .env`, save changes with `CTRL+X`, then `y`, then `Enter`
-- Install tmux: `sudo apt install tmux && tmux`
-- Run the bot: `bash start`
-- To exit tmux session: Press `Ctrl+b` and then `d`
+</p> 
 
 ━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Contact:
-<a href="https://t.me/THE_VIP_BOY_OP">
+<a href="https://t.me/XN_ARYANN">
     <img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB">
 </a>
-<a href="https://instagram.com/the.vip.boy">
-    <img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">
-</a>
+
